@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [ Selenium: Beginners Guide Automation Test Suite]" guice-stage="DEVELOPMENT">
+  <test name="Selenium: Beginners Guide Test Cases(failed)">
+    <classes>
+      <class name="com.automate.qa.test.HomePageTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="validateChap4Link"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.automate.qa.test.HomePageTest -->
+    </classes>
+  </test> <!-- Selenium: Beginners Guide Test Cases(failed) -->
+</suite> <!-- Failed suite [ Selenium: Beginners Guide Automation Test Suite] -->
